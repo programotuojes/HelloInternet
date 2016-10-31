@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!--UI color-->
+    <color name="colorStatusBar">#1d1d1d</color>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorGray">#c9c9c9</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Text color-->
+    <color name="colorText">#000000</color>
+    <color name="colorTextSelected">#FFFFFF</color>
+    <color name="colorTextDeselected">#9b9b9b</color>
+
 </resources>

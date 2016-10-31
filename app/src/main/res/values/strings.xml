@@ -1,3 +1,9 @@
 <resources>
+
     <string name="app_name">Hello Internet</string>
+    <string name="latest">Latest</string>
+    <string name="archive">Archive</string>
+    <string name="no_connention">No internet connection</string>
+    <string name="buffering">Buffering…</string>
+
 </resources>
